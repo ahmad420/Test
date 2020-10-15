@@ -73,4 +73,8 @@ though, as touch typing requires dedicated practice to learn it well.
 * Alaa : [@GitHub](https://github.com/alaabashiyi)
 * Awwad: [@GitHub](https://github.com/muhammadawwad9)
 * Ahmad: [@GitHub](https://github.com/ahmad420)
+<br>
+<p align="center">
+  <img src="Contact.gif" width=360px height=200px />
+</p>
 
