@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="Typer1.gif" width=720px height=360px />
+  <img src="/img/Typer1.gif" width=720px height=360px />
 </p>
 
 
@@ -32,8 +32,8 @@ fewer errors with this free online typing tutor.
 ## Faster Typer Game :
  Welcome to Faster Typer You can choose the level of game difficulty.<br>
 <p align="center">
-  <img src="game1.jpg" width=360px height=200px />
-  <img src="game2.jpg" width=360px height=200px />
+  <img src="/img/game1.jpg" width=360px height=200px />
+  <img src="/img/game2.jpg" width=360px height=200px />
 </p>
 
 ## Each level represent different added time:
@@ -43,8 +43,8 @@ fewer errors with this free online typing tutor.
 * legendary: 3 seconds.<br> <br>
 
 <p align="center">
-  <img src="game3.jpg" width=360px height=200px />
-  <img src="game4.jpg" width=360px height=200px />
+  <img src="/img/game3.jpg" width=360px height=200px />
+  <img src="/img/game4.jpg" width=360px height=200px />
 
 </p>
 
@@ -75,6 +75,6 @@ though, as touch typing requires dedicated practice to learn it well.
 * Ahmad: [@GitHub](https://github.com/ahmad420)
 <br>
 <p align="center">
-  <img src="Contact.gif" width=360px height=200px />
+  <img src="/img/Contact.gif" width=360px height=200px />
 </p>
 
