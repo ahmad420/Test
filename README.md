@@ -34,11 +34,11 @@ fewer errors with this free online typing tutor.
 <p align="center">
   <img src="game1.jpg" width=480px height=360px />
 </p>
-<h5>Each level represent different added time:<h5><br>
-* easy: 10 seconds.<br>
-* medium: 8 seconds.<br>
-* hard: 5 seconds.<br> 
-* legendary: 3 seconds.<br>  
+<h5>Each level represent different added time:</h5>
+*Easy: 10 seconds.<br>
+*Medium: 8 seconds.<br>
+*Hard: 5 seconds.<br> 
+*legendary: 3 seconds.<br>  
 
 
 * What Is Touch Typing?
