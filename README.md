@@ -49,10 +49,10 @@ though, as touch typing requires dedicated practice to learn it well.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-*How fast can you type?
-*In this game you can check how fast can you type
+* How fast can you type?
+* In this game you can check how fast can you type
 * When starting the game you should write the wanted word in the input before time runs out. 
-*if you wrote the word correctly, an extra time will be added to the timer 10,8,5,3 seconds depends on the level.
+* if you wrote the word correctly, an extra time will be added to the timer 10,8,5,3 seconds depends on the level.
 
 
 <!-- Contact US -->
