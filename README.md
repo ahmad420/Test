@@ -32,15 +32,15 @@ fewer errors with this free online typing tutor.
 ## Faster Typer Game :
  Welcome to Faster Typer You can choose the level of game difficulty.<br>
 <p align="center">
-  <img src="game1.jpg" width=480px height=360px />
-  <img src="game2.jpg" width=480px height=360px />
+  <img src="game1.jpg" width=360px height=200px />
+  <img src="game2.jpg" width=360px height=200px />
 </p>
 <h5>Each level represent different added time:</h5>
 * Easy: 10 seconds.<br>
 * Medium: 8 seconds.<br>
 * Hard: 5 seconds.<br> 
-* legendary: 3 seconds.<br>  
-
+* legendary: 3 seconds.
+<br> <br>
 <p align="center">
   <img src="game3.jpg" width=360px height=200px />
   <img src="game4.jpg" width=360px height=200px />
