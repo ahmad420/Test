@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="Typer.jpg"/>
+  <img src="Typer.jpg" width=720px height=480px;/>
 </p>
 
 
