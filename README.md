@@ -1,86 +1,64 @@
 
+# Faster Typer 
+
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="stro.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">STORMTROOPERS WEB DEVELOPMENT AGENCY</h3>
-
-  <p align="center">
+  <img src="Typer.jpg"/>
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/WebAhead7/stormtroopers.git
-
-2. Install NPM packages
-```sh
-npm install
-```
+* [Contact Us](#contact)
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/WebAhead7/stormtroopers.git) for a list of proposed features (and known issues).
-
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p align="center">
+  <img src="http://gph.is/28Mn8fa" width=480px height=360px; />
+</p>
+Typing Lessons
+Take typing speed test, practice your touch typing skills,
+learn to type faster and with fewer errors with this free online typing tutor.
 
 
-<!-- CONTACT -->
+Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty
+Each level represent different added time:
+* easy: 10 seconds.
+* medium: 8 seconds
+* hard: 5 seconds 
+* legendary: 3 seconds.  
+
+
+What Is Touch Typing?
+Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with years and decades of computer experience. It  is easy to understand,
+though, as touch typing requires dedicated practice to learn it well.
+
+
+## Built With
+* HTML
+* CSS
+* JS
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+*How fast can you type?
+*In this game you can check how fast can you type
+* When starting the game you should write the wanted word in the input before time runs out. 
+*if you wrote the word correctly, an extra time will be added to the timer 10,8,5,3 seconds depends on the level.
+
+
+<!-- Contact US -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+* Alaa :[@GitHub](https://github.com/alaabashiyi)
+* Awwad:[@GitHub](https://github.com/muhammadawwad9)
+* Ahmad:[@GitHub](https://github.com/ahmad420)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
