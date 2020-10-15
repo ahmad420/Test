@@ -30,6 +30,9 @@ fewer errors with this free online typing tutor.
 
 
 * Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty.<br>
+<p align="center">
+  <img src="game1.jpg" width=720px height=360px />
+</p>
 Each level represent different added time:
 * easy: 10 seconds.
 * medium: 8 seconds
@@ -38,6 +41,10 @@ Each level represent different added time:
 
 
 * What Is Touch Typing?
+<p align="center">
+  <img src="game2.jpg" width=720px height=360px />
+  <img src="game3.jpg" width=720px height=360px />
+</p>
 Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with years and decades of computer experience. It  is easy to understand,
 though, as touch typing requires dedicated practice to learn it well.
 
