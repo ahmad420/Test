@@ -29,7 +29,7 @@ Take typing speed test, practice your touch typing skills,<br>learn to type fast
 fewer errors with this free online typing tutor.
 
 
-* Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty
+* Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty.<br>
 Each level represent different added time:
 * easy: 10 seconds.
 * medium: 8 seconds
