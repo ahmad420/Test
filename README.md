@@ -56,9 +56,9 @@ though, as touch typing requires dedicated practice to learn it well.
 
 
 <!-- Contact US -->
-## Contact
+## Contact US
 
-* Alaa :[@GitHub](https://github.com/alaabashiyi)
-* Awwad:[@GitHub](https://github.com/muhammadawwad9)
-* Ahmad:[@GitHub](https://github.com/ahmad420)
+* Alaa : [@GitHub](https://github.com/alaabashiyi)
+* Awwad: [@GitHub](https://github.com/muhammadawwad9)
+* Ahmad: [@GitHub](https://github.com/ahmad420)
 
