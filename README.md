@@ -23,12 +23,12 @@
 <p align="center">
   <img src="http://gph.is/28Mn8fa" width=480px height=360px; />
 </p>
-Typing Lessons
-Take typing speed test, practice your touch typing skills,
-learn to type faster and with fewer errors with this free online typing tutor.
+* Typing Lessons
+Take typing speed test, practice your touch typing skills,learn to type faster and with 
+fewer errors with this free online typing tutor.
 
 
-Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty
+* Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty
 Each level represent different added time:
 * easy: 10 seconds.
 * medium: 8 seconds
