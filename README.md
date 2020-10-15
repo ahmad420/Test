@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="Typer.gif" width=480px height=360px; />
+  <img src="/img/Typer.gif" width=480px height=360px; />
 </p>
 
 <h4>Typing Lessons</h4>
