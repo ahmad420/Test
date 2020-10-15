@@ -37,10 +37,10 @@ fewer errors with this free online typing tutor.
 </p>
 
 ## Each level represent different added time:
-*Easy: 10 seconds.<br>
-*Medium: 8 seconds.<br>
-*Hard: 5 seconds.<br> 
-*legendary: 3 seconds.<br> <br>
+* Easy: 10 seconds.<br>
+* Medium: 8 seconds.<br>
+* Hard: 5 seconds.<br> 
+* legendary: 3 seconds.<br> <br>
 
 <p align="center">
   <img src="game3.jpg" width=360px height=200px />
