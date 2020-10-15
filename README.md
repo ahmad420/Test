@@ -29,7 +29,7 @@ Take typing speed test, practice your touch typing skills,<br>learn to type fast
 fewer errors with this free online typing tutor.
 
 
-* Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty.<br>
+<h2>Faster Typer Game : Welcome to Faster Typer You can choose the level of game difficulty.</h2><br>
 <p align="center">
   <img src="game1.jpg" width=720px height=360px />
 </p>
