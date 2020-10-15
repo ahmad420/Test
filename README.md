@@ -35,8 +35,8 @@ fewer errors with this free online typing tutor.
   <img src="game1.jpg" width=360px height=200px />
   <img src="game2.jpg" width=360px height=200px />
 </p>
-<h5>Each level represent different added time:</h5>
 
+## Each level represent different added time:
 *Easy: 10 seconds.<br>
 *Medium: 8 seconds.<br>
 *Hard: 5 seconds.<br> 
