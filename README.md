@@ -34,7 +34,6 @@ fewer errors with this free online typing tutor.
 <p align="center">
   <img src="game1.jpg" width=480px height=360px />
   <img src="game2.jpg" width=480px height=360px />
-  <img src="game3.jpg" width=480px height=360px />
 </p>
 <h5>Each level represent different added time:</h5>
 * Easy: 10 seconds.<br>
@@ -42,6 +41,11 @@ fewer errors with this free online typing tutor.
 * Hard: 5 seconds.<br> 
 * legendary: 3 seconds.<br>  
 
+<p align="center">
+  <img src="game3.jpg" width=360px height=200px />
+  <img src="game4.jpg" width=360px height=200px />
+
+</p>
 
 <h4> What Is Touch Typing?</h4>
 Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, <br>just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive<br> and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with <br>years and decades of computer experience. It  is easy to understand,
