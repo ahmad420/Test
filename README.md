@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="http://gph.is/28Mn8fa" width=480px height=360px; />
+  <img src="https://media.giphy.com/media/XGqDsE3owV0RO/source.gif" width=480px height=360px; />
 </p>
 
 * Typing Lessons
