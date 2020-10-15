@@ -12,10 +12,10 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Contact Us](#contact)
+* [About the Project](#about-the-project)<br>
+* [Built With](#built-with))<br>
+* [Getting Started](#getting-started))<br>
+* [Contact Us](#contact))<br>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -24,21 +24,21 @@
   <img src="Typer.gif" width=480px height=360px; />
 </p>
 
-* Typing Lessons
+<h4>Typing Lessons</h4>
 Take typing speed test, practice your touch typing skills,<br>learn to type faster and with 
 fewer errors with this free online typing tutor.
 
 
-<h2>Faster Typer Game : </h2>
+<h4>Faster Typer Game : </h4>
  Welcome to Faster Typer You can choose the level of game difficulty.<br>
 <p align="center">
   <img src="game1.jpg" width=480px height=360px />
 </p>
-Each level represent different added time:
-* easy: 10 seconds.
-* medium: 8 seconds
-* hard: 5 seconds 
-* legendary: 3 seconds.  
+<h5>Each level represent different added time:<h5><br>
+* easy: 10 seconds.<br>
+* medium: 8 seconds.<br>
+* hard: 5 seconds.<br> 
+* legendary: 3 seconds.<br>  
 
 
 * What Is Touch Typing?
@@ -46,7 +46,7 @@ Each level represent different added time:
   <img src="game2.jpg" width=480px height=360px />
   <img src="game3.jpg" width=480px height=360px />
 </p>
-Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with years and decades of computer experience. It  is easy to understand,
+Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, <br>just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive<br> and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with <br>years and decades of computer experience. It  is easy to understand,
 though, as touch typing requires dedicated practice to learn it well.
 
 
