@@ -56,7 +56,7 @@ though, as touch typing requires dedicated practice to learn it well.
 ## Built With
 * HTML
 * CSS
-* JS
+* Js
 
 
 <!-- GETTING STARTED -->
