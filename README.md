@@ -1,13 +1,9 @@
 
-# Faster Typer 
+# Weather App
+ 
 
 <!-- PROJECT LOGO -->
-<br />
-
-<p align="center">
-  <img src="/img/Typer1.gif" width=720px height=360px />
-</p>
-
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -20,37 +16,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
-  <img src="/img/Typer.gif" width=480px height=360px; />
-</p>
+
 
 <h4>Typing Lessons</h4>
-Take typing speed test, practice your touch typing skills,<br>learn to type faster and with 
-fewer errors with this free online typing tutor.
+Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
+Updated info in all capitals in the world, just to type the capital name to know the temperature value.
+It has everything from instant readings on what the weather’s doing now, to more detailed radar scans showing precipitation and clouds over a wider area.
+in this weather app there are two sections, first is about the temperature value any time you use it. The second section includes more info about country that you choose it like population, capital and the country's flag.
 
-
-## Faster Typer Game :
- Welcome to Faster Typer You can choose the level of game difficulty.<br>
-<p align="center">
-  <img src="/img/game1.jpg" width=360px height=200px />
-  <img src="/img/game2.jpg" width=360px height=200px />
-</p>
-
-## Each level represent different added time:
-* Easy: 10 seconds.<br>
-* Medium: 8 seconds.<br>
-* Hard: 5 seconds.<br> 
-* legendary: 3 seconds.<br> <br>
-
-<p align="center">
-  <img src="/img/game3.jpg" width=360px height=200px />
-  <img src="/img/game4.jpg" width=360px height=200px />
-
-</p>
-
-<h4> What Is Touch Typing?</h4>
-Touch typing is the ability to use muscle memory to find keys fast, without using the sense of sight, and with all the available fingers, <br>just like piano players do. It significantly improves typing speed and eliminates errors. Touch typing simply makes you more productive<br> and it is a skill worth learning. However, many people engage in the bad habit of ‘hunt-and-peck’ typing, even those seasoned professionals with <br>years and decades of computer experience. It  is easy to understand,
-though, as touch typing requires dedicated practice to learn it well.
+## Weather App :
+ Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
 
 
 ## Built With
@@ -61,20 +36,18 @@ though, as touch typing requires dedicated practice to learn it well.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-* How fast can you type?
-* In this game you can check how fast can you type
-* When starting the game you should write the wanted word in the input before time runs out. 
-* if you wrote  the word correctly, an extra time will be added to the timer 10,8,5,3 seconds depends on the level.
-
+1. 
+2.
+3.
+4.
+ 
 
 <!-- Contact US -->
 ## Contact US
 
-* Alaa : [@GitHub](https://github.com/alaabashiyi)
-* Awwad: [@GitHub](https://github.com/muhammadawwad9)
+* Moh khamaisi : [@GitHub](https://github.com/muhkhm)
+* Myassar: [@GitHub](https://github.com/myassar1211)
 * Ahmad: [@GitHub](https://github.com/ahmad420)
+* Rakad: [@GitHub](https://github.com/rakad-kh)
 <br>
-<p align="center">
-  <img src="/img/Contact.gif" width=360px height=200px />
-</p>
 
