@@ -20,10 +20,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="/img/readme2.gif" width=720px height=360px />
-</p><p align="center">
-  <img src="/img/readme2.gif" width=720px height=360px />
+  <img src="/img/game1.jpg" width=360px height=200px />
+  <img src="/img/game2.jpg" width=360px height=200px />
 </p>
+
 ## Weather App :
 Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
 Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
