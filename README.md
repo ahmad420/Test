@@ -20,8 +20,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="/img/game1.jpg" width=360px height=200px />
-  <img src="/img/game2.jpg" width=360px height=200px />
+  <img src="/img/giphy.gif" width=360px height=200px />
+  <img src="/img/gameee2.jpg" width=360px height=200px />
 </p>
 
 ## Weather App :
